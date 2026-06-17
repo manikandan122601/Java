@@ -1,7 +1,12 @@
 package org.company;
 
 public class Employee {
-
+	
+	public void age() {
+		int age = 29;
+		System.out.println(age);
+	}
+	
 	public void idNo() {
 		int id = 30;
 		System.out.println(id);
