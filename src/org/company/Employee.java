@@ -4,7 +4,12 @@ public class Employee {
 
 	public void EployeeDob() {
 		String Dob = "12/07/1995";
-		System.out.println(Dob);
+		System.out.println(Dob);	
+	}
+	
+	public void age() {
+		int age = 29;
+		System.out.println(age);
 	}
 	
 	public void idNo() {
