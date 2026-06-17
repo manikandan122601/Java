@@ -2,6 +2,11 @@ package org.company;
 
 public class Employee {
 
+	public void EployeeDob() {
+		String Dob = "12/07/1995";
+		System.out.println(Dob);
+	}
+	
 	public void idNo() {
 		int id = 30;
 		System.out.println(id);
